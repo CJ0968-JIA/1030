@@ -1,0 +1,4 @@
+question,optionA,optionB,optionC,correctOption
+p5.js 的 核心 迴 圈 是 哪個 函數?,setup(),loop(),draw(),C
+讀取 CSV 檔案 應 在 哪個 函數 中 執行?,setup(),preload(),draw(),B
+以下 哪一 個 是 p5.js 的 幾何 圖 形 函數?,text(),rect(),color(),B
